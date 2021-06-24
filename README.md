@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Stephanie, a junior front-end developer.
+I'm Stephanie, a front-end developer.
 
 
 ## About Me
